@@ -1,0 +1,26 @@
+.section7 {
+    padding: 80px 20px;
+    background-color: #f4f4f4; /* or use a background-image if you prefer */
+    color: #1a1a1a;
+    text-align: center;
+    height: 100vh;
+    background-image: url('../images/sections/section-achievements-darya-karaliova-unsplash.jpg'); /* update path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .section7-title {
+    /* margin-top: 70px; */
+    font-size: 2.5rem;
+    color: white;
+    margin-bottom: 40px;
+    /* color: rgb(64, 81, 98); */
+  }
+  
+  .section7-content {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    line-height: 1.8;
+  }

@@ -1,0 +1,115 @@
+.section5 {
+    padding: 80px 20px;
+    background-color: #f4f4f4; /* or use a background-image if you prefer */
+    color: #1a1a1a;
+    text-align: center;
+    height: 150vh;
+    background-image: url('../images/sections/section-portfolio-adrien-olichon-unsplash.jpg'); /* update path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+  flex-direction: column;
+  justify-content: space-evenly; /* 👈 Even vertical spacing */
+  align-items: center;           /* 👈 Center horizontally */
+  }
+  
+  .section5-title {
+    margin-top: 70px;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: white;
+  }
+
+  .section5-subtitle {
+    color: white;
+  }
+  
+  .section5-content {
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    line-height: 1.8;
+  }
+
+  /* .card-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+  } */
+
+  .card-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* margin: 50px 50px 50px 50px; */
+    display: flex;
+    gap: 20px;
+    /* flex-wrap: wrap; */
+    padding: 20px;
+    justify-content: space-evenly; /* 👈 Add this line */
+  }
+  
+  .card {
+    /* margin-left: 50px; */
+    /* margin-right: 50px; */
+    position: relative;
+    width: 250px;
+    /* max-width: 300px; */
+    height: 450px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    background-color: #eee;
+    transition: 0.5s all;
+  }
+
+  .card:hover {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4); /* Stronger shadow for pop-out effect */
+    transform: scale(1.05); /* Slightly scale up the card */
+    filter: brightness(1.2); /* Make the card shine */
+  }
+
+  .card img {
+    transition: 0.5s all;
+  }
+  
+  .card:hover img {
+    filter: brightness(1.2); /* Make the image shine */
+  }
+  
+  
+  .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* .card-link {
+    text-decoration: none;
+    color: inherit;
+  } */
+
+  .card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    width: 250px;     /* Match .card width */
+    height: 450px;    /* Match .card height */
+  }
+  
+  .card-title {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 1.1rem;
+    text-align: center;
+    transition: 0.3s all;
+  }
+
+  .card:hover .card-title {
+    background: rgba(0, 0, 0, 0.8); /* Darken the title background on hover */
+  }

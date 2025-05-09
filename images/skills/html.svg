@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="122.5 70 255 360" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g>
+        <path fill="#e44d26" d="m145.7 401.1-23.2-260.4h255L354.3 401l-104.5 29z" data-color="1"/>
+        <path fill="#f16529" d="m250 407.9 84.4-23.4L354.3 162H250z" data-color="2"/>
+        <path fill="#ebebeb" d="M250 258.6h-42.3l-2.9-32.7H250V194h-80.1l.8 8.5 7.8 88H250z" data-color="3"/>
+        <path fill="#ebebeb" d="m250 341.5-.1.1-35.6-9.7-2.3-25.4h-32l4.4 50.1 65.5 18.2.1-.1z" data-color="3"/>
+        <path d="M146.2 70h16.2v16h14.8V70h16.2v48.5h-16.2v-16.3h-14.8v16.3h-16.2z" fill="#000000" data-color="4"/>
+        <path d="M214.8 86.1h-14.3V70h44.8v16.1H231v32.4h-16.2z" fill="#000000" data-color="4"/>
+        <path d="M252.5 70h16.9l10.4 17.1L290.2 70h16.9v48.5H291v-24l-11.2 17.3h-.3l-11.2-17.3v24.1h-15.9V70z" fill="#000000" data-color="4"/>
+        <path d="M315.2 70h16.2v32.5h22.8v16h-39z" fill="#000000" data-color="4"/>
+        <path fill="#ffffff" d="M249.9 258.6v31.9h39.3l-3.7 41.4-35.6 9.6v33.3l65.4-18.2.5-5.4 7.5-84 .8-8.6z" data-color="5"/>
+        <path fill="#ffffff" d="M249.9 194v31.9H327l.7-7.2 1.4-16.2.8-8.5z" data-color="5"/>
+    </g>
+</svg>

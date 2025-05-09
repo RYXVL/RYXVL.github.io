@@ -1,0 +1,25 @@
+/* Fonts & Global Styles */
+
+@font-face {
+    font-family: 'Voye';
+    src: url(../fonts/voye/Voye-Medium.otf);
+}
+
+@font-face {
+    font-family: 'Krylon';
+    src: url(../fonts/krylon/Krylon-Regular.otf);
+}
+  
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
