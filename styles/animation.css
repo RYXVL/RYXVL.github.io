@@ -38,19 +38,19 @@
 @keyframes growIn {
   0% {
     opacity: 0;
-    transform: scaleY(0); /* Start with zero height */
+    transform: scaleY(0);
   }
   100% {
     opacity: 1;
-    transform: scaleY(1); /* Fully expanded */
+    transform: scaleY(1);
   }
 }
 
 @keyframes grow {
   0% {
-      transform: scale(0); /* Initial state, hidden or reduced size */
+      transform: scale(0);
   }
   100% {
-      transform: scale(1); /* Final state, full size */
+      transform: scale(1);
   }
 }

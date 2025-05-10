@@ -1,16 +1,8 @@
 .section3 {
     padding: 80px 20px;
     height: 150vh;
-    /* background-color: #f4f4f4; */
     color: #1a1a1a;
     text-align: center;
-    /* background: linear-gradient(135deg, #d2f4d2, #ffff99, #ffb6c1, #ffc0cb, #ffccff); */
-    /* background: linear-gradient(135deg,
-    #d2f4d2 0%,
-    #f4f4aa 25%,
-    #ffd1dc 50%,
-    #ffc0cb 75%,
-    #ffccff 100%); */
     background: linear-gradient(135deg,
     #bfe0e7 0%,
     #c5e3d3 16.67%,
@@ -19,8 +11,6 @@
     #f6dca5 66.67%,
     #fcc1dc 83.33%,
     #feb9e5 100%);
-    /* background-size: 400% 400%; */
-    /* animation: gradientFlow 5s ease infinite; */
 }
   
 .section3-title {
@@ -56,22 +46,10 @@
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
-/* .image-row {
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    opacity: 0;
-    transform: scaleY(0);
-    transform-origin: top;
-    animation: growIn 1s forwards;
-} */
   
 .image-row img {
-    width: 60px; /* adjust as needed */
-    height: 60px; /* adjust as needed */
+    width: 60px;
+    height: 60px;
     object-fit: contain;
 }
 
@@ -83,6 +61,5 @@
 
 .section-3-disclaimer-emoji {
     display: inline-block;
-    /* animation: wiggle 0.5s ease-in-out infinite; */
     animation: pulse 1.5s ease-in-out infinite;
 }
