@@ -1,0 +1,48 @@
+[
+  {
+    "startMonth": "Jan",
+    "startYear": "24",
+    "endMonth": "Jun",
+    "endYear": "24",
+    "company": "MSCI",
+    "role": "Technology & Data Intern",
+    "description": "Led performance improvements in ETL workflows and optimized CI/CD pipelines, achieving a boost in data processing speed and reduction in data errors. Designed automation scripts to assist the QA team by transforming and pushing daily inconsistency reports to a dashboard for easier debugging. Developed bash scripts to automate legacy log file cleanup and authored deployment automation scripts, cutting manual effort and increasing efficiency.",
+    "background_image_path": ""
+  },
+  {
+    "startMonth": "Jan",
+    "startYear": "24",
+    "endMonth": "Jun",
+    "endYear": "24",
+    "company": "Manipal Institute of Technology",
+    "role": "Project Intern",
+    "description": "Engineered a comprehensive timetable management application featuring secure authentication, real-time updates, and an intuitive interface. Added robust features including push notifications, lesson plan tracking, and PDF report generation to streamline academic coordination and reduce administrative overhead, improving efficiency in performance tracking."
+  },
+  {
+    "startMonth": "Aug",
+    "startYear": "23",
+    "endMonth": "Nov",
+    "endYear": "23",
+    "company": "Manipal Institute of Technology",
+    "role": "Teaching Assistant",
+    "description": "Supported over 60 students in the Digital Systems Lab, guiding them through Verilog programming concepts and practical assignments. Maintained lab records, offered academic assistance, and upheld a structured and engaging environment to enhance hands-on learning outcomes."
+  },
+  {
+    "startMonth": "Mar",
+    "startYear": "23",
+    "endMonth": "Sep",
+    "endYear": "23",
+    "company": "Samsung R&D Institute",
+    "role": "Samsung PRISM Intern",
+    "description": "Collaborated on the development of a Windows-based screen mirroring tool using C#, focusing on enhancing usability and interface responsiveness by 30%. Achieved near real-time audio-video streaming with latency under 0.5 seconds through continuous performance tuning, delivering a smooth and reliable user experience across connected devices."
+  },
+  {
+    "startMonth": "Jun",
+    "startYear": "23",
+    "endMonth": "Jul",
+    "endYear": "23",
+    "company": "Jio Platforms Limited",
+    "role": "Back-end Engineer Intern",
+    "description": "Developed scalable backend APIs for a university database using Node.js, MongoDB, and Redis, enabling secure login and seamless data handling. Integrated a Redis-based caching system to speed up data access and retrieval, achieving a 6.5x improvement in response time and increasing overall backend reliability."
+  }
+]
