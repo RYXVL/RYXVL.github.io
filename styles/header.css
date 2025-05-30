@@ -6,7 +6,9 @@ header {
     left: 0;
     width: 100%;
     background-color: rgba(0, 0, 0);
-    color: white;
+    /* background-color: transparent; */
+    /* opacity: 0; */
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -31,6 +33,6 @@ nav a:hover {
     color: #00ffff;
 }
 
-.spacer {
-    height: 60px;
-}
+/* .spacer { */
+    /* height: 60px; */
+/* } */
