@@ -41,7 +41,8 @@ nav a {
   width: 20%;
   display: table-cell;
   text-align: center;
-  color: #949494;
+  /* color: #949494; */
+  color: white;
   text-decoration: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
@@ -138,22 +139,22 @@ nav a:nth-child(1):hover ~ #indicator {
 }
 
 nav a:nth-child(2):hover ~ #indicator {
-  left: 22%;
+  left: 21%;
   background: linear-gradient(130deg, #00e2ff, #89ff00);
 }
 
 nav a:nth-child(3):hover ~ #indicator {
-  left: 43%;
+  left: 42%;
   background: linear-gradient(130deg, purple, palevioletred);
 }
 
 nav a:nth-child(4):hover ~ #indicator {
-  left: 66.5%;
+  left: 66%;
   background: linear-gradient(130deg, orange, cyan);
 }
 
 nav a:nth-child(5):hover ~ #indicator {
-  left: 87%;
+  left: 87.5%;
   background: linear-gradient(130deg, teal, pink);
 }
 
