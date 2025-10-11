@@ -357,3 +357,8 @@
     right: 30%;
   }
 }
+
+.timeline .swiper-button-next,
+.timeline .swiper-button-prev {
+  display: none !important;
+}
