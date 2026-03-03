@@ -1,33 +1,56 @@
 [
-    {
-        "redirection_html_file_path": "",
-        "name": "",
-        "thumbnail_path": "",
-        "link": "",
-        "description": ""
-    },
-    {
-        "name": "",
-        "thumbnail_path": "",
-        "link": "",
-        "description": ""
-    },
-    {
-        "name": "",
-        "thumbnail_path": "",
-        "link": "",
-        "description": ""
-    },
-    {
-        "name": "",
-        "thumbnail_path": "",
-        "link": "",
-        "description": ""
-    },
-    {
-        "name": "",
-        "thumbnail_path": "",
-        "link": "",
-        "description": ""
-    }
+  {
+    "id": "distributed-ticketing-system",
+    "css": "styles/portfolio_project_css/project6_distributed_ticketing_system.css",
+    "name": "Distributed Ticketing System",
+    "thumbnail_path": "images/project_thumnails/distributed_ticketing_system.png",
+    "link": "https://github.com/RYXVL/Distributed-Ticketing-System",
+    "private_repo": false,
+    "description": "ENTER_TEXT_HERE"
+  },
+  {
+    "id": "tower-defense-game",
+    "css": "styles/portfolio_project_css/project1_tower_defense_game.css",
+    "name": "Playing Tower Defense Game Using An RL Agent",
+    "thumbnail_path": "images/project_thumnails/tower_defense_game.png",
+    "link": "https://github.com/RYXVL/Tower-Defence-Game",
+    "private_repo": false,
+    "description": "A strategy-based tower defense game built using Pygame, where players place towers with unique health, damage, and range to defend against waves of enemies. The game uses Q-learning and Deep Q-Networks (DQN) algorithms to enable an AI agent to learn and optimize tower placement and decision-making strategies, adapting to different enemy types with their own health and damage attributes."
+  },
+  {
+    "id": "image-processing-software",
+    "css": "styles/portfolio_project_css/project2_image_processing_software.css",
+    "name": "Image Processing Software",
+    "thumbnail_path": "images/project_thumnails/image_processing_software.png",
+    "link": null,
+    "private_repo": true,
+    "description": "Developed a command-driven image processing application in Java supporting image formats like PPM, JPG, and PNG. Implemented operations including blur, sharpen, grayscale, sepia, brighten, and darken. Designed the system using the MVC architecture, supporting histogram generation, command line control and GUI control."
+  },
+  {
+    "id": "invoice-management-system",
+    "css": "styles/portfolio_project_css/project3_invoice_management_system.css",
+    "name": "Invoice Management System",
+    "thumbnail_path": "images/project_thumnails/invoice_management_system.png",
+    "link": "https://github.com/RYXVL/Invoice-Management-System",
+    "private_repo": false,
+    "description": "Designed and developed a secure invoice management system based on a unified data model, ensuring strict separation of data across multiple companies. Implemented access control to prevent cross-company visibility of employees, customers, and invoices. Built using Python, the system allows employees to generate and retrieve invoices in PDF format, streamlining billing and transaction workflows."
+  },
+  {
+    "id": "timetable-management-application",
+    "css": "styles/portfolio_project_css/project4_time_management_application.css",
+    "name": "Timetable Management Application",
+    "thumbnail_path": "images/project_thumnails/timetable_management_system.png",
+    "link": "https://github.com/RYXVL/class_sync_timetable_manager",
+    "private_repo": false,
+    "description": "Developed a comprehensive timetable management system featuring a user-friendly interface, secure authentication, and real-time update capabilities to enhance scheduling efficiency and user accessibility. Integrated advanced functionalities such as push notifications, lesson plan tracking, and PDF report generation, effectively resolving administrative challenges and supporting smoother performance evaluations."
+  },
+  {
+    "id": "cryptrack",
+    "css": "styles/portfolio_project_css/project5_cryptrack.css",
+    "name": "Cryptrack",
+    "thumbnail_path": "images/project_thumnails/cryptrack.png",
+    "link": "https://github.com/RYXVL/Cryptrack",
+    "private_repo": false,
+    "description": "Built a dynamic application using Flutter and Dart to fetch real-time conversion rates for major cryptocurrencies across multiple global currencies. The system enables users to analyze market trends and calculate exchange rates between cryptocurrencies."
+  }
 ]

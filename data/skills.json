@@ -1,11 +1,64 @@
 [
-    {
-        "image_row_width": "",
-        "skills": [
-            {
-                "image_path": "",
-                "image_text": ""
-            }
-        ]
-    }
+  {
+    "image_row_width": "50%",
+    "skills": [
+      { "image_path": "./images/skills/python.svg",     "image_text": "Python" },
+      { "image_path": "./images/skills/java.svg",       "image_text": "Java" },
+      { "image_path": "./images/skills/c.svg",          "image_text": "C" },
+      { "image_path": "./images/skills/dart.svg",       "image_text": "Dart" },
+      { "image_path": "./images/skills/sql.png",        "image_text": "SQL" }
+    ]
+  },
+  {
+    "image_row_width": "40%",
+    "skills": [
+      { "image_path": "./images/skills/cuda.png",       "image_text": "CUDA" },
+      { "image_path": "./images/skills/html.svg",       "image_text": "HTML5" },
+      { "image_path": "./images/skills/javascript.svg", "image_text": "JavaScript" },
+      { "image_path": "./images/skills/css.svg",        "image_text": "CSS3" },
+      { "image_path": "./images/skills/bash.png",       "image_text": "Bash" }
+    ]
+  },
+  {
+    "image_row_width": "70%",
+    "skills": [
+      { "image_path": "./images/skills/confluence.svg",     "image_text": "Confluence" },
+      { "image_path": "./images/skills/git.svg",            "image_text": "Git" },
+      { "image_path": "./images/skills/overleaf.png",       "image_text": "Overleaf" },
+      { "image_path": "./images/skills/flutter.png",        "image_text": "Flutter" },
+      { "image_path": "./images/skills/ubuntu.svg",         "image_text": "Ubuntu" },
+      { "image_path": "./images/skills/npm.svg",            "image_text": "NPM" },
+      { "image_path": "./images/skills/linux.svg",          "image_text": "Linux" },
+      { "image_path": "./images/skills/android-studio.svg", "image_text": "Android Studio" },
+      { "image_path": "./images/skills/snowflake.png",      "image_text": "Snowflake" },
+      { "image_path": "./images/skills/postman.png",        "image_text": "Postman" }
+    ]
+  },
+  {
+    "image_row_width": "70%",
+    "skills": [
+      { "image_path": "./images/skills/redis.svg",         "image_text": "Redis" },
+      { "image_path": "./images/skills/pycharm.svg",       "image_text": "PyCharm" },
+      { "image_path": "./images/skills/intellij.svg",      "image_text": "IntelliJ" },
+      { "image_path": "./images/skills/django.svg",        "image_text": "Django" },
+      { "image_path": "./images/skills/nodejs.png",        "image_text": "Node.js" },
+      { "image_path": "./images/skills/azure-devops.webp", "image_text": "Azure DevOps" },
+      { "image_path": "./images/skills/docker.svg",        "image_text": "Docker" },
+      { "image_path": "./images/skills/azure.svg",         "image_text": "Azure" }
+    ]
+  },
+  {
+    "image_row_width": "60%",
+    "skills": [
+      { "image_path": "./images/skills/jira.svg",      "image_text": "Jira" },
+      { "image_path": "./images/skills/mysql.svg",     "image_text": "MySQL" },
+      { "image_path": "./images/skills/mongodb.svg",   "image_text": "MongoDB" },
+      { "image_path": "./images/skills/firebase.svg",  "image_text": "Firebase" },
+      { "image_path": "./images/skills/airflow.png",   "image_text": "Apache Airflow" },
+      { "image_path": "./images/skills/sql-dev.svg",   "image_text": "SQL Developer" },
+      { "image_path": "./images/skills/anaconda.png",  "image_text": "Anaconda" },
+      { "image_path": "./images/skills/github.svg",    "image_text": "Github" },
+      { "image_path": "./images/skills/junit5.png",    "image_text": "jUnit5" }
+    ]
+  }
 ]
