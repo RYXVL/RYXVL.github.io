@@ -1,8 +1,8 @@
 const DATA = {
-  metadata:   './data/metadata.json',
-  skills:     './data/skills.json',
-  experience: './data/experience.json',
-  portfolio:  './data/portfolio.json',
+  metadata:   './data/metadata.json?v=2',
+  skills:     './data/skills.json?v=2',
+  experience: './data/experience.json?v=2',
+  portfolio:  './data/portfolio.json?v=2',
 };
 
 async function loadAll() {
@@ -196,7 +196,7 @@ function initSwiper() {
 
 async function renderProjectPage() {
   const id   = new URLSearchParams(location.search).get('id');
-  const data = await (await fetch('./data/portfolio.json')).json();
+  const data = await (await fetch('./data/portfolio.json?v=2')).json();
   const p    = data.find(x => (x.id || slugify(x.name)) === id);
 
   if (!p) {
