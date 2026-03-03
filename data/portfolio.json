@@ -6,7 +6,7 @@
     "thumbnail_path": "images/project_thumnails/distributed_ticketing_system.png",
     "link": "https://github.com/RYXVL/Distributed-Ticketing-System",
     "private_repo": false,
-    "description": "ENTER_TEXT_HERE"
+    "description": "A distributed event ticketing system built with Go, MySQL, and Redis on AWS, engineered for high concurrency with load-balanced architecture and sub-500ms response times under heavy traffic."
   },
   {
     "id": "tower-defense-game",
