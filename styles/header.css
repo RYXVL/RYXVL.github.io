@@ -31,7 +31,7 @@ nav {
   /* top: 0; */
   right: 0;
   left: 0;
-  width: 319px;
+  width: 420px;
   display: table;
   margin: 0 auto;
   transform: translateY(-50%);
@@ -39,7 +39,7 @@ nav {
 
 nav a {
   position: relative;
-  width: 20%;
+  width: 16.66%;
   display: table-cell;
   text-align: center;
   /* color: #949494; */
@@ -114,9 +114,17 @@ nav a:nth-child(5):after {
   background-color: pink;
 }
 
+nav a:nth-child(6):before {
+  background-color: coral;
+}
+
+nav a:nth-child(6):after {
+  background-color: gold;
+}
+
 #indicator {
   position: absolute;
-  left: 5%;
+  left: 2.5%;
   bottom: 0px;
   width: 30px;
   height: 3px;
@@ -135,28 +143,33 @@ nav a:hover:after {
 }
 
 nav a:nth-child(1):hover ~ #indicator {
-  /* left: 5%; */
+  left: 3.5%;
   background: linear-gradient(130deg, yellow, red);
 }
 
 nav a:nth-child(2):hover ~ #indicator {
-  left: 21%;
+  left: 16%;
   background: linear-gradient(130deg, #00e2ff, #89ff00);
 }
 
 nav a:nth-child(3):hover ~ #indicator {
-  left: 42%;
+  left: 31.5%;
   background: linear-gradient(130deg, purple, palevioletred);
 }
 
 nav a:nth-child(4):hover ~ #indicator {
-  left: 66%;
+  left: 50%;
   background: linear-gradient(130deg, orange, cyan);
 }
 
 nav a:nth-child(5):hover ~ #indicator {
-  left: 87.5%;
+  left: 71%;
   background: linear-gradient(130deg, teal, pink);
+}
+
+nav a:nth-child(6):hover ~ #indicator {
+  left: 90.5%;
+  background: linear-gradient(130deg, coral, gold);
 }
 
 
