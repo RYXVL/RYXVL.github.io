@@ -1,0 +1,68 @@
+[
+  {
+    "id": "google-python",
+    "name": "Crash Course on Python",
+    "issuer": "Google",
+    "issuerShort": "G",
+    "platform": "Coursera",
+    "year": "2025",
+    "group": "Python",
+    "verifyUrl": "https://coursera.org/verify/W3A3LGDCZRAK",
+    "theme": "google"
+  },
+  {
+    "id": "umich-python-everybody",
+    "name": "Programming for Everybody (Getting Started with Python)",
+    "issuer": "University of Michigan",
+    "issuerShort": "M",
+    "platform": "Coursera",
+    "year": "2025",
+    "group": "Python",
+    "verifyUrl": "https://coursera.org/verify/RVYWDHSSGYQK",
+    "theme": "umich"
+  },
+  {
+    "id": "umich-data-structures",
+    "name": "Python Data Structures",
+    "issuer": "University of Michigan",
+    "issuerShort": "M",
+    "platform": "Coursera",
+    "year": "2025",
+    "group": "Python",
+    "verifyUrl": "https://coursera.org/verify/BH5UP8TPULDF",
+    "theme": "umich"
+  },
+  {
+    "id": "umich-web-data",
+    "name": "Using Python to Access Web Data",
+    "issuer": "University of Michigan",
+    "issuerShort": "M",
+    "platform": "Coursera",
+    "year": "2025",
+    "group": "Python",
+    "verifyUrl": "https://coursera.org/verify/U585Z65FQN7K",
+    "theme": "umich"
+  },
+  {
+    "id": "meta-js",
+    "name": "Programming with JavaScript",
+    "issuer": "Meta",
+    "issuerShort": "f",
+    "platform": "Coursera",
+    "year": "2025",
+    "group": "JavaScript & Backend",
+    "verifyUrl": "https://coursera.org/verify/HDRUEYMMFBVX",
+    "theme": "meta"
+  },
+  {
+    "id": "ibm-backend",
+    "name": "Developing Back-End Apps with Node.js & Express",
+    "issuer": "IBM",
+    "issuerShort": "IBM",
+    "platform": "Coursera",
+    "year": "2025",
+    "group": "JavaScript & Backend",
+    "verifyUrl": "https://coursera.org/verify/X2AU4YMNFFNY",
+    "theme": "ibm"
+  }
+]
